@@ -1,1 +1,1 @@
-A1 Templates
+A1 Template
